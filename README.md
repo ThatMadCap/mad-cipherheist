@@ -160,9 +160,6 @@ success: 'Network successfully decrypted.',
 
 * You can remove the ``INSTALL`` folder once you've completed these steps if you wish.
 
-##### Note
-This resource was originally created for my own FiveM Server, and originally I had no plans on releasing it. It has been fully tested and the heist works properly. The code could use improving, and there are certainly better ways to do things than I have chosen. The main section that could use more work is the blips. The idea was always to have a blip displayed on the location of the tracked item, but I never got around to making it work properly.
-
 #### Heist Overview:
 
 This heist involves collecting cipher fragments, merging them, and using the result to locate and retrieve a valuable item guarded by a tracker. Players must evade police and disable the tracker through sequential hacks.
@@ -187,3 +184,6 @@ This heist involves collecting cipher fragments, merging them, and using the res
 * 0ms when heist isn't active.
 * 0ms while doing heist setup.
 * 0.1ms when loops are running (trackedloot blips and beep loops are active)
+
+####### Note
+This resource was originally created for my own FiveM Server, and I had no plans on releasing it. The code could use improving, and there are certainly better ways to do things than I have chosen. The main section that could use more work is the tracked loot blips (displaying to on duty police). The idea was always to have a blip displayed on the location of the tracked item, but I never got around to making it work properly.
