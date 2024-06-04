@@ -185,5 +185,5 @@ This heist involves collecting cipher fragments, merging them, and using the res
 * 0ms while doing heist setup.
 * 0.1ms when loops are running (trackedloot blips and beep loops are active)
 
-####### Note
+###### Note
 This resource was originally created for my own FiveM Server, and I had no plans on releasing it. The code could use improving, and there are certainly better ways to do things than I have chosen. The main section that could use more work is the tracked loot blips (displaying to on duty police). The idea was always to have a blip displayed on the location of the tracked item, but I never got around to making it work properly.
