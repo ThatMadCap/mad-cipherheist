@@ -28,7 +28,7 @@ Youtube
 
 * Dependencies must load before mad-cipherheist. I recommend you setup your load order as such:
 * Place all dependencies in ``[standalone]`` - as well as the included ``hacking`` folder.
-* Place ``[mad-cipherheist]`` in ``[madcap]`` folder.
+* Place ``[mad-cipherheist]`` & ``[mad-map-cipherheist]`` in ``[madcap]`` folder.
 * Ensure resources in server cfg:
 
 ```cfg
