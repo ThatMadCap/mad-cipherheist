@@ -1,5 +1,7 @@
 # mad-cipherheist
 
+![cipher-heist-banner](https://github.com/ThatMadCap/mad-cipherheist/assets/95227673/bcbb3de3-c0da-461e-96a6-9237ae4df3ed)
+
 ## Introduction
 
 Dive into an immersive heist experience unlike any other. Follow a gripping storyline as you acquire crucial components, hack into secure terminals, and decipher cryptic messages to uncover the truth behind a mysterious signal. Are you ready to embark on a daring mission filled with excitement and suspense?
