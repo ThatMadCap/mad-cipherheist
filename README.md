@@ -2,6 +2,8 @@
 
 ![cipher-heist-banner](https://github.com/ThatMadCap/mad-cipherheist/assets/95227673/bcbb3de3-c0da-461e-96a6-9237ae4df3ed)
 
+<a href="https://ko-fi.com/madcap" target="_blank"><img src="https://assets-global.website-files.com/5c14e387dab576fe667689cf/64f1a9ddd0246590df69ea0b_kofi_long_button_red%25402x-p-500.png" alt="Support me on Ko-fi" width="250"></a>
+
 ## Introduction
 
 Dive into an immersive heist experience unlike any other. Follow a gripping storyline as you acquire crucial components, hack into secure terminals, and decipher cryptic messages to uncover the truth behind a mysterious signal. Are you ready to embark on a daring mission filled with excitement and suspense?
