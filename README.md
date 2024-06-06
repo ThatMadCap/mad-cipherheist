@@ -23,6 +23,7 @@ Dive into an immersive heist experience unlike any other. Follow a gripping stor
 * [utk_fingerprint](https://github.com/utkuali/Finger-Print-Hacking-Game)
 * [hacking](https://github.com/Prime-Script/prime-vangelico/tree/main/assets) (included)
 * [ps-dispatch](https://github.com/Project-Sloth/ps-dispatch) for police alerts
+* [qb-phone](https://github.com/qbcore-framework/qb-phone) (qs-smartphone is also supported)
 * *(Optional)[Patoche-AnonymousMLO](https://www.gta5-mods.com/maps/mlo-anonymous-fivem-sp-ready)* (need to move a location if you don't use this)
 * *(Optional)[keep-crafting](https://github.com/swkeep/keep-crafting)* (for optional loot items)
 * *(Optional)[mz-hacks](https://github.com/MrZainRP/mz-hacks)* (for optional loot items)
